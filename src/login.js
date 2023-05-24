@@ -9,10 +9,11 @@ export default function Login({ setToken }) {
     const encPass = "$2a$10$eYkmx2lNyIu6GQKKecuzQe.6AQZiymGWp88vdrhYcRaccAnQyzk2W";
     function handleSubmit(e) {
         e.preventDefault();
-        bcrypt.hash(password, 10, function(err, hash) {
-            console.log(hash);
-        });
+        // bcrypt.hash(password, 10, function(err, hash) {
+        //     console.log(hash);
+        // });
         bcrypt.compare(password, encPass, function (err, result) {
+            console.log(password,result);
             setToken(result);
             if(result===false){
                 setErrorMessages({name:"error",message:"Wrong password"})
