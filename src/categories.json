@@ -1,0 +1,47 @@
+{
+    "Lymhurst": [
+        "sword",
+        "arcanestaff",
+        "bow",
+        "leather_helmet",
+        "leather_shoes"
+    ],
+    "Caerleon": [
+        "knuckles"
+    ],
+    "Bridgewatch": [
+        "dagger",
+        "cursestaff",
+        "crossbow",
+        "plate_armor",
+        "cloth_shoes",
+        "cape",
+        "bag"
+    ],
+    "Martlock": [
+        "axe",
+        "quarterstaff",
+        "froststaff",
+        "book",
+        "orb",
+        "totem",
+        "horn",
+        "torch",
+        "shield",
+        "plate_shoes"
+    ],
+    "Thetford": [
+        "mace",
+        "firestaff",
+        "naturestaff",
+        "cloth_helmet",
+        "leather_armor"
+    ],
+    "Fort Sterling": [
+        "hammer",
+        "spear",
+        "holystaff",
+        "plate_helmet",
+        "cloth_armor"
+    ]
+}
