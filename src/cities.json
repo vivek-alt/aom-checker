@@ -1,0 +1,21 @@
+[
+    {
+        "city":"Lymhurst",
+        "id":1
+    },{
+        "city":"Bridgewatch",
+        "id":2
+    },{
+        "city":"Thetford",
+        "id":3
+    },{
+        "city":"Martlock",
+        "id":4
+    },{
+        "city":"Fort Sterling",
+        "id":5
+    },{
+        "city":"Caerleon",
+        "id":6
+    }
+]

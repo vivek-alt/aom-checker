@@ -1,0 +1,3659 @@
+{
+    "Lymhurst": [
+        {
+            "uniquename": "T4_HEAD_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "leather_helmet",
+            "name": "Adept's Mercenary Hood"
+        },
+        {
+            "uniquename": "T5_HEAD_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "leather_helmet",
+            "name": "Expert's Mercenary Hood"
+        },
+        {
+            "uniquename": "T6_HEAD_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "leather_helmet",
+            "name": "Master's Mercenary Hood"
+        },
+        {
+            "uniquename": "T7_HEAD_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "leather_helmet",
+            "name": "Grandmaster's Mercenary Hood"
+        },
+        {
+            "uniquename": "T8_HEAD_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "leather_helmet",
+            "name": "Elder's Mercenary Hood"
+        },
+        {
+            "uniquename": "T4_SHOES_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "leather_shoes",
+            "name": "Adept's Mercenary Shoes"
+        },
+        {
+            "uniquename": "T5_SHOES_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "leather_shoes",
+            "name": "Expert's Mercenary Shoes"
+        },
+        {
+            "uniquename": "T6_SHOES_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "leather_shoes",
+            "name": "Master's Mercenary Shoes"
+        },
+        {
+            "uniquename": "T7_SHOES_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "leather_shoes",
+            "name": "Grandmaster's Mercenary Shoes"
+        },
+        {
+            "uniquename": "T8_SHOES_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "leather_shoes",
+            "name": "Elder's Mercenary Shoes"
+        },
+        {
+            "uniquename": "T4_HEAD_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "leather_helmet",
+            "name": "Adept's Hunter Hood"
+        },
+        {
+            "uniquename": "T5_HEAD_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "leather_helmet",
+            "name": "Expert's Hunter Hood"
+        },
+        {
+            "uniquename": "T6_HEAD_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "leather_helmet",
+            "name": "Master's Hunter Hood"
+        },
+        {
+            "uniquename": "T7_HEAD_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "leather_helmet",
+            "name": "Grandmaster's Hunter Hood"
+        },
+        {
+            "uniquename": "T8_HEAD_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "leather_helmet",
+            "name": "Elder's Hunter Hood"
+        },
+        {
+            "uniquename": "T4_SHOES_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "leather_shoes",
+            "name": "Adept's Hunter Shoes"
+        },
+        {
+            "uniquename": "T5_SHOES_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "leather_shoes",
+            "name": "Expert's Hunter Shoes"
+        },
+        {
+            "uniquename": "T6_SHOES_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "leather_shoes",
+            "name": "Master's Hunter Shoes"
+        },
+        {
+            "uniquename": "T7_SHOES_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "leather_shoes",
+            "name": "Grandmaster's Hunter Shoes"
+        },
+        {
+            "uniquename": "T8_SHOES_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "leather_shoes",
+            "name": "Elder's Hunter Shoes"
+        },
+        {
+            "uniquename": "T4_HEAD_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "leather_helmet",
+            "name": "Adept's Assassin Hood"
+        },
+        {
+            "uniquename": "T5_HEAD_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "leather_helmet",
+            "name": "Expert's Assassin Hood"
+        },
+        {
+            "uniquename": "T6_HEAD_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "leather_helmet",
+            "name": "Master's Assassin Hood"
+        },
+        {
+            "uniquename": "T7_HEAD_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "leather_helmet",
+            "name": "Grandmaster's Assassin Hood"
+        },
+        {
+            "uniquename": "T8_HEAD_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "leather_helmet",
+            "name": "Elder's Assassin Hood"
+        },
+        {
+            "uniquename": "T4_SHOES_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "leather_shoes",
+            "name": "Adept's Assassin Shoes"
+        },
+        {
+            "uniquename": "T5_SHOES_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "leather_shoes",
+            "name": "Expert's Assassin Shoes"
+        },
+        {
+            "uniquename": "T6_SHOES_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "leather_shoes",
+            "name": "Master's Assassin Shoes"
+        },
+        {
+            "uniquename": "T7_SHOES_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "leather_shoes",
+            "name": "Grandmaster's Assassin Shoes"
+        },
+        {
+            "uniquename": "T8_SHOES_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "leather_shoes",
+            "name": "Elder's Assassin Shoes"
+        },
+        {
+            "uniquename": "T4_2H_BOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "bow",
+            "name": "Adept's Bow"
+        },
+        {
+            "uniquename": "T5_2H_BOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "bow",
+            "name": "Expert's Bow"
+        },
+        {
+            "uniquename": "T6_2H_BOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "bow",
+            "name": "Master's Bow"
+        },
+        {
+            "uniquename": "T7_2H_BOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "bow",
+            "name": "Grandmaster's Bow"
+        },
+        {
+            "uniquename": "T8_2H_BOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "bow",
+            "name": "Elder's Bow"
+        },
+        {
+            "uniquename": "T4_2H_WARBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "bow",
+            "name": "Adept's Warbow"
+        },
+        {
+            "uniquename": "T5_2H_WARBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "bow",
+            "name": "Expert's Warbow"
+        },
+        {
+            "uniquename": "T6_2H_WARBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "bow",
+            "name": "Master's Warbow"
+        },
+        {
+            "uniquename": "T7_2H_WARBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "bow",
+            "name": "Grandmaster's Warbow"
+        },
+        {
+            "uniquename": "T8_2H_WARBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "bow",
+            "name": "Elder's Warbow"
+        },
+        {
+            "uniquename": "T4_2H_LONGBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "bow",
+            "name": "Adept's Longbow"
+        },
+        {
+            "uniquename": "T5_2H_LONGBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "bow",
+            "name": "Expert's Longbow"
+        },
+        {
+            "uniquename": "T6_2H_LONGBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "bow",
+            "name": "Master's Longbow"
+        },
+        {
+            "uniquename": "T7_2H_LONGBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "bow",
+            "name": "Grandmaster's Longbow"
+        },
+        {
+            "uniquename": "T8_2H_LONGBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "bow",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "bow",
+            "name": "Elder's Longbow"
+        },
+        {
+            "uniquename": "T4_MAIN_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "arcanestaff",
+            "name": "Adept's Arcane Staff"
+        },
+        {
+            "uniquename": "T5_MAIN_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "arcanestaff",
+            "name": "Expert's Arcane Staff"
+        },
+        {
+            "uniquename": "T6_MAIN_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "arcanestaff",
+            "name": "Master's Arcane Staff"
+        },
+        {
+            "uniquename": "T7_MAIN_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "arcanestaff",
+            "name": "Grandmaster's Arcane Staff"
+        },
+        {
+            "uniquename": "T8_MAIN_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "arcanestaff",
+            "name": "Elder's Arcane Staff"
+        },
+        {
+            "uniquename": "T4_2H_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "arcanestaff",
+            "name": "Adept's Great Arcane Staff"
+        },
+        {
+            "uniquename": "T5_2H_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "arcanestaff",
+            "name": "Expert's Great Arcane Staff"
+        },
+        {
+            "uniquename": "T6_2H_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "arcanestaff",
+            "name": "Master's Great Arcane Staff"
+        },
+        {
+            "uniquename": "T7_2H_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "arcanestaff",
+            "name": "Grandmaster's Great Arcane Staff"
+        },
+        {
+            "uniquename": "T8_2H_ARCANESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "arcanestaff",
+            "name": "Elder's Great Arcane Staff"
+        },
+        {
+            "uniquename": "T4_2H_ENIGMATICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "arcanestaff",
+            "name": "Adept's Enigmatic Staff"
+        },
+        {
+            "uniquename": "T5_2H_ENIGMATICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "arcanestaff",
+            "name": "Expert's Enigmatic Staff"
+        },
+        {
+            "uniquename": "T6_2H_ENIGMATICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "arcanestaff",
+            "name": "Master's Enigmatic Staff"
+        },
+        {
+            "uniquename": "T7_2H_ENIGMATICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "arcanestaff",
+            "name": "Grandmaster's Enigmatic Staff"
+        },
+        {
+            "uniquename": "T8_2H_ENIGMATICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "arcanestaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "arcanestaff",
+            "name": "Elder's Enigmatic Staff"
+        },
+        {
+            "uniquename": "T4_MAIN_SWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "sword",
+            "name": "Adept's Broadsword"
+        },
+        {
+            "uniquename": "T5_MAIN_SWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "sword",
+            "name": "Expert's Broadsword"
+        },
+        {
+            "uniquename": "T6_MAIN_SWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "sword",
+            "name": "Master's Broadsword"
+        },
+        {
+            "uniquename": "T7_MAIN_SWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "sword",
+            "name": "Grandmaster's Broadsword"
+        },
+        {
+            "uniquename": "T8_MAIN_SWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "sword",
+            "name": "Elder's Broadsword"
+        },
+        {
+            "uniquename": "T4_2H_CLAYMORE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "sword",
+            "name": "Adept's Claymore"
+        },
+        {
+            "uniquename": "T5_2H_CLAYMORE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "sword",
+            "name": "Expert's Claymore"
+        },
+        {
+            "uniquename": "T6_2H_CLAYMORE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "sword",
+            "name": "Master's Claymore"
+        },
+        {
+            "uniquename": "T7_2H_CLAYMORE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "sword",
+            "name": "Grandmaster's Claymore"
+        },
+        {
+            "uniquename": "T8_2H_CLAYMORE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "sword",
+            "name": "Elder's Claymore"
+        },
+        {
+            "uniquename": "T4_2H_DUALSWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "sword",
+            "name": "Adept's Dual Swords"
+        },
+        {
+            "uniquename": "T5_2H_DUALSWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "sword",
+            "name": "Expert's Dual Swords"
+        },
+        {
+            "uniquename": "T6_2H_DUALSWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "sword",
+            "name": "Master's Dual Swords"
+        },
+        {
+            "uniquename": "T7_2H_DUALSWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "sword",
+            "name": "Grandmaster's Dual Swords"
+        },
+        {
+            "uniquename": "T8_2H_DUALSWORD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "sword",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "sword",
+            "name": "Elder's Dual Swords"
+        }
+    ],
+    "Caerleon": [
+        {
+            "uniquename": "T4_2H_KNUCKLES_SET1",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "knuckles",
+            "name": "Adept's Brawler Gloves"
+        },
+        {
+            "uniquename": "T5_2H_KNUCKLES_SET1",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "knuckles",
+            "name": "Expert's Brawler Gloves"
+        },
+        {
+            "uniquename": "T6_2H_KNUCKLES_SET1",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "knuckles",
+            "name": "Master's Brawler Gloves"
+        },
+        {
+            "uniquename": "T7_2H_KNUCKLES_SET1",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "knuckles",
+            "name": "Grandmaster's Brawler Gloves"
+        },
+        {
+            "uniquename": "T8_2H_KNUCKLES_SET1",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "knuckles",
+            "name": "Elder's Brawler Gloves"
+        },
+        {
+            "uniquename": "T4_2H_KNUCKLES_SET2",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "knuckles",
+            "name": "Adept's Battle Bracers"
+        },
+        {
+            "uniquename": "T5_2H_KNUCKLES_SET2",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "knuckles",
+            "name": "Expert's Battle Bracers"
+        },
+        {
+            "uniquename": "T6_2H_KNUCKLES_SET2",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "knuckles",
+            "name": "Master's Battle Bracers"
+        },
+        {
+            "uniquename": "T7_2H_KNUCKLES_SET2",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "knuckles",
+            "name": "Grandmaster's Battle Bracers"
+        },
+        {
+            "uniquename": "T8_2H_KNUCKLES_SET2",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "knuckles",
+            "name": "Elder's Battle Bracers"
+        },
+        {
+            "uniquename": "T4_2H_KNUCKLES_SET3",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "knuckles",
+            "name": "Adept's Spiked Gauntlets"
+        },
+        {
+            "uniquename": "T5_2H_KNUCKLES_SET3",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "knuckles",
+            "name": "Expert's Spiked Gauntlets"
+        },
+        {
+            "uniquename": "T6_2H_KNUCKLES_SET3",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "knuckles",
+            "name": "Master's Spiked Gauntlets"
+        },
+        {
+            "uniquename": "T7_2H_KNUCKLES_SET3",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "knuckles",
+            "name": "Grandmaster's Spiked Gauntlets"
+        },
+        {
+            "uniquename": "T8_2H_KNUCKLES_SET3",
+            "shopcategory": "melee",
+            "shopsubcategory1": "knuckles",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "knuckles",
+            "name": "Elder's Spiked Gauntlets"
+        }
+    ],
+    "Bridgewatch": [
+        {
+            "uniquename": "T4_CAPE",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "cape",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "cape",
+            "name": "Adept's Cape"
+        },
+        {
+            "uniquename": "T5_CAPE",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "cape",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "cape",
+            "name": "Expert's Cape"
+        },
+        {
+            "uniquename": "T6_CAPE",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "cape",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "cape",
+            "name": "Master's Cape"
+        },
+        {
+            "uniquename": "T7_CAPE",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "cape",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "cape",
+            "name": "Grandmaster's Cape"
+        },
+        {
+            "uniquename": "T8_CAPE",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "cape",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "cape",
+            "name": "Elder's Cape"
+        },
+        {
+            "uniquename": "T4_BAG",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "bag",
+            "name": "Adept's Bag"
+        },
+        {
+            "uniquename": "T5_BAG",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "bag",
+            "name": "Expert's Bag"
+        },
+        {
+            "uniquename": "T6_BAG",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "bag",
+            "name": "Master's Bag"
+        },
+        {
+            "uniquename": "T7_BAG",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "bag",
+            "name": "Grandmaster's Bag"
+        },
+        {
+            "uniquename": "T8_BAG",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "bag",
+            "name": "Elder's Bag"
+        },
+        {
+            "uniquename": "T4_BAG_INSIGHT",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "bag",
+            "name": "Adept's Satchel of Insight"
+        },
+        {
+            "uniquename": "T5_BAG_INSIGHT",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "bag",
+            "name": "Expert's Satchel of Insight"
+        },
+        {
+            "uniquename": "T6_BAG_INSIGHT",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "bag",
+            "name": "Master's Satchel of Insight"
+        },
+        {
+            "uniquename": "T7_BAG_INSIGHT",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "bag",
+            "name": "Grandmaster's Satchel of Insight"
+        },
+        {
+            "uniquename": "T8_BAG_INSIGHT",
+            "shopcategory": "accessories",
+            "shopsubcategory1": "bag",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "bag",
+            "name": "Elder's Satchel of Insight"
+        },
+        {
+            "uniquename": "T4_ARMOR_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "plate_armor",
+            "name": "Adept's Soldier Armor"
+        },
+        {
+            "uniquename": "T5_ARMOR_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "plate_armor",
+            "name": "Expert's Soldier Armor"
+        },
+        {
+            "uniquename": "T6_ARMOR_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "plate_armor",
+            "name": "Master's Soldier Armor"
+        },
+        {
+            "uniquename": "T7_ARMOR_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "plate_armor",
+            "name": "Grandmaster's Soldier Armor"
+        },
+        {
+            "uniquename": "T8_ARMOR_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "plate_armor",
+            "name": "Elder's Soldier Armor"
+        },
+        {
+            "uniquename": "T4_ARMOR_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "plate_armor",
+            "name": "Adept's Knight Armor"
+        },
+        {
+            "uniquename": "T5_ARMOR_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "plate_armor",
+            "name": "Expert's Knight Armor"
+        },
+        {
+            "uniquename": "T6_ARMOR_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "plate_armor",
+            "name": "Master's Knight Armor"
+        },
+        {
+            "uniquename": "T7_ARMOR_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "plate_armor",
+            "name": "Grandmaster's Knight Armor"
+        },
+        {
+            "uniquename": "T8_ARMOR_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "plate_armor",
+            "name": "Elder's Knight Armor"
+        },
+        {
+            "uniquename": "T4_ARMOR_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "plate_armor",
+            "name": "Adept's Guardian Armor"
+        },
+        {
+            "uniquename": "T5_ARMOR_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "plate_armor",
+            "name": "Expert's Guardian Armor"
+        },
+        {
+            "uniquename": "T6_ARMOR_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "plate_armor",
+            "name": "Master's Guardian Armor"
+        },
+        {
+            "uniquename": "T7_ARMOR_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "plate_armor",
+            "name": "Grandmaster's Guardian Armor"
+        },
+        {
+            "uniquename": "T8_ARMOR_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "plate_armor",
+            "name": "Elder's Guardian Armor"
+        },
+        {
+            "uniquename": "T4_SHOES_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "cloth_shoes",
+            "name": "Adept's Scholar Sandals"
+        },
+        {
+            "uniquename": "T5_SHOES_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "cloth_shoes",
+            "name": "Expert's Scholar Sandals"
+        },
+        {
+            "uniquename": "T6_SHOES_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "cloth_shoes",
+            "name": "Master's Scholar Sandals"
+        },
+        {
+            "uniquename": "T7_SHOES_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "cloth_shoes",
+            "name": "Grandmaster's Scholar Sandals"
+        },
+        {
+            "uniquename": "T8_SHOES_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "cloth_shoes",
+            "name": "Elder's Scholar Sandals"
+        },
+        {
+            "uniquename": "T4_SHOES_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "cloth_shoes",
+            "name": "Adept's Cleric Sandals"
+        },
+        {
+            "uniquename": "T5_SHOES_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "cloth_shoes",
+            "name": "Expert's Cleric Sandals"
+        },
+        {
+            "uniquename": "T6_SHOES_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "cloth_shoes",
+            "name": "Master's Cleric Sandals"
+        },
+        {
+            "uniquename": "T7_SHOES_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "cloth_shoes",
+            "name": "Grandmaster's Cleric Sandals"
+        },
+        {
+            "uniquename": "T8_SHOES_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "cloth_shoes",
+            "name": "Elder's Cleric Sandals"
+        },
+        {
+            "uniquename": "T4_SHOES_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "cloth_shoes",
+            "name": "Adept's Mage Sandals"
+        },
+        {
+            "uniquename": "T5_SHOES_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "cloth_shoes",
+            "name": "Expert's Mage Sandals"
+        },
+        {
+            "uniquename": "T6_SHOES_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "cloth_shoes",
+            "name": "Master's Mage Sandals"
+        },
+        {
+            "uniquename": "T7_SHOES_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "cloth_shoes",
+            "name": "Grandmaster's Mage Sandals"
+        },
+        {
+            "uniquename": "T8_SHOES_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "cloth_shoes",
+            "name": "Elder's Mage Sandals"
+        },
+        {
+            "uniquename": "T4_2H_CROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "crossbow",
+            "name": "Adept's Crossbow"
+        },
+        {
+            "uniquename": "T5_2H_CROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "crossbow",
+            "name": "Expert's Crossbow"
+        },
+        {
+            "uniquename": "T6_2H_CROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "crossbow",
+            "name": "Master's Crossbow"
+        },
+        {
+            "uniquename": "T7_2H_CROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "crossbow",
+            "name": "Grandmaster's Crossbow"
+        },
+        {
+            "uniquename": "T8_2H_CROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "crossbow",
+            "name": "Elder's Crossbow"
+        },
+        {
+            "uniquename": "T4_2H_CROSSBOWLARGE",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "crossbow",
+            "name": "Adept's Heavy Crossbow"
+        },
+        {
+            "uniquename": "T5_2H_CROSSBOWLARGE",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "crossbow",
+            "name": "Expert's Heavy Crossbow"
+        },
+        {
+            "uniquename": "T6_2H_CROSSBOWLARGE",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "crossbow",
+            "name": "Master's Heavy Crossbow"
+        },
+        {
+            "uniquename": "T7_2H_CROSSBOWLARGE",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "crossbow",
+            "name": "Grandmaster's Heavy Crossbow"
+        },
+        {
+            "uniquename": "T8_2H_CROSSBOWLARGE",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "crossbow",
+            "name": "Elder's Heavy Crossbow"
+        },
+        {
+            "uniquename": "T4_MAIN_1HCROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "crossbow",
+            "name": "Adept's Light Crossbow"
+        },
+        {
+            "uniquename": "T5_MAIN_1HCROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "crossbow",
+            "name": "Expert's Light Crossbow"
+        },
+        {
+            "uniquename": "T6_MAIN_1HCROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "crossbow",
+            "name": "Master's Light Crossbow"
+        },
+        {
+            "uniquename": "T7_MAIN_1HCROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "crossbow",
+            "name": "Grandmaster's Light Crossbow"
+        },
+        {
+            "uniquename": "T8_MAIN_1HCROSSBOW",
+            "shopcategory": "ranged",
+            "shopsubcategory1": "crossbow",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "crossbow",
+            "name": "Elder's Light Crossbow"
+        },
+        {
+            "uniquename": "T4_MAIN_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "cursestaff",
+            "name": "Adept's Cursed Staff"
+        },
+        {
+            "uniquename": "T5_MAIN_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "cursestaff",
+            "name": "Expert's Cursed Staff"
+        },
+        {
+            "uniquename": "T6_MAIN_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "cursestaff",
+            "name": "Master's Cursed Staff"
+        },
+        {
+            "uniquename": "T7_MAIN_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "cursestaff",
+            "name": "Grandmaster's Cursed Staff"
+        },
+        {
+            "uniquename": "T8_MAIN_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "cursestaff",
+            "name": "Elder's Cursed Staff"
+        },
+        {
+            "uniquename": "T4_2H_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "cursestaff",
+            "name": "Adept's Great Cursed Staff"
+        },
+        {
+            "uniquename": "T5_2H_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "cursestaff",
+            "name": "Expert's Great Cursed Staff"
+        },
+        {
+            "uniquename": "T6_2H_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "cursestaff",
+            "name": "Master's Great Cursed Staff"
+        },
+        {
+            "uniquename": "T7_2H_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "cursestaff",
+            "name": "Grandmaster's Great Cursed Staff"
+        },
+        {
+            "uniquename": "T8_2H_CURSEDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "cursestaff",
+            "name": "Elder's Great Cursed Staff"
+        },
+        {
+            "uniquename": "T4_2H_DEMONICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "cursestaff",
+            "name": "Adept's Demonic Staff"
+        },
+        {
+            "uniquename": "T5_2H_DEMONICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "cursestaff",
+            "name": "Expert's Demonic Staff"
+        },
+        {
+            "uniquename": "T6_2H_DEMONICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "cursestaff",
+            "name": "Master's Demonic Staff"
+        },
+        {
+            "uniquename": "T7_2H_DEMONICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "cursestaff",
+            "name": "Grandmaster's Demonic Staff"
+        },
+        {
+            "uniquename": "T8_2H_DEMONICSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "cursestaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "cursestaff",
+            "name": "Elder's Demonic Staff"
+        },
+        {
+            "uniquename": "T4_MAIN_DAGGER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "dagger",
+            "name": "Adept's Dagger"
+        },
+        {
+            "uniquename": "T5_MAIN_DAGGER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "dagger",
+            "name": "Expert's Dagger"
+        },
+        {
+            "uniquename": "T6_MAIN_DAGGER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "dagger",
+            "name": "Master's Dagger"
+        },
+        {
+            "uniquename": "T7_MAIN_DAGGER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "dagger",
+            "name": "Grandmaster's Dagger"
+        },
+        {
+            "uniquename": "T8_MAIN_DAGGER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "dagger",
+            "name": "Elder's Dagger"
+        },
+        {
+            "uniquename": "T4_2H_DAGGERPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "dagger",
+            "name": "Adept's Dagger Pair"
+        },
+        {
+            "uniquename": "T5_2H_DAGGERPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "dagger",
+            "name": "Expert's Dagger Pair"
+        },
+        {
+            "uniquename": "T6_2H_DAGGERPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "dagger",
+            "name": "Master's Dagger Pair"
+        },
+        {
+            "uniquename": "T7_2H_DAGGERPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "dagger",
+            "name": "Grandmaster's Dagger Pair"
+        },
+        {
+            "uniquename": "T8_2H_DAGGERPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "dagger",
+            "name": "Elder's Dagger Pair"
+        },
+        {
+            "uniquename": "T4_2H_CLAWPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "dagger",
+            "name": "Adept's Claws"
+        },
+        {
+            "uniquename": "T5_2H_CLAWPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "dagger",
+            "name": "Expert's Claws"
+        },
+        {
+            "uniquename": "T6_2H_CLAWPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "dagger",
+            "name": "Master's Claws"
+        },
+        {
+            "uniquename": "T7_2H_CLAWPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "dagger",
+            "name": "Grandmaster's Claws"
+        },
+        {
+            "uniquename": "T8_2H_CLAWPAIR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "dagger",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "dagger",
+            "name": "Elder's Claws"
+        }
+    ],
+    "Martlock": [
+        {
+            "uniquename": "T4_OFF_SHIELD",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "shield",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "offhand",
+            "name": "Adept's Shield"
+        },
+        {
+            "uniquename": "T5_OFF_SHIELD",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "shield",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "offhand",
+            "name": "Expert's Shield"
+        },
+        {
+            "uniquename": "T6_OFF_SHIELD",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "shield",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "offhand",
+            "name": "Master's Shield"
+        },
+        {
+            "uniquename": "T7_OFF_SHIELD",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "shield",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "offhand",
+            "name": "Grandmaster's Shield"
+        },
+        {
+            "uniquename": "T8_OFF_SHIELD",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "shield",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "offhand",
+            "name": "Elder's Shield"
+        },
+        {
+            "uniquename": "T4_OFF_BOOK",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "book",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "offhand",
+            "name": "Adept's Tome of Spells"
+        },
+        {
+            "uniquename": "T5_OFF_BOOK",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "book",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "offhand",
+            "name": "Expert's Tome of Spells"
+        },
+        {
+            "uniquename": "T6_OFF_BOOK",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "book",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "offhand",
+            "name": "Master's Tome of Spells"
+        },
+        {
+            "uniquename": "T7_OFF_BOOK",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "book",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "offhand",
+            "name": "Grandmaster's Tome of Spells"
+        },
+        {
+            "uniquename": "T8_OFF_BOOK",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "book",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "offhand",
+            "name": "Rosalia's Diary"
+        },
+        {
+            "uniquename": "T4_OFF_TORCH",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "torch",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "offhand",
+            "name": "Adept's Torch"
+        },
+        {
+            "uniquename": "T5_OFF_TORCH",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "torch",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "offhand",
+            "name": "Expert's Torch"
+        },
+        {
+            "uniquename": "T6_OFF_TORCH",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "torch",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "offhand",
+            "name": "Master's Torch"
+        },
+        {
+            "uniquename": "T7_OFF_TORCH",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "torch",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "offhand",
+            "name": "Grandmaster's Torch"
+        },
+        {
+            "uniquename": "T8_OFF_TORCH",
+            "shopcategory": "offhand",
+            "shopsubcategory1": "torch",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "offhand",
+            "name": "Elder's Torch"
+        },
+        {
+            "uniquename": "T4_SHOES_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "plate_shoes",
+            "name": "Adept's Soldier Boots"
+        },
+        {
+            "uniquename": "T5_SHOES_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "plate_shoes",
+            "name": "Expert's Soldier Boots"
+        },
+        {
+            "uniquename": "T6_SHOES_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "plate_shoes",
+            "name": "Master's Soldier Boots"
+        },
+        {
+            "uniquename": "T7_SHOES_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "plate_shoes",
+            "name": "Grandmaster's Soldier Boots"
+        },
+        {
+            "uniquename": "T8_SHOES_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "plate_shoes",
+            "name": "Elder's Soldier Boots"
+        },
+        {
+            "uniquename": "T4_SHOES_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "plate_shoes",
+            "name": "Adept's Knight Boots"
+        },
+        {
+            "uniquename": "T5_SHOES_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "plate_shoes",
+            "name": "Expert's Knight Boots"
+        },
+        {
+            "uniquename": "T6_SHOES_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "plate_shoes",
+            "name": "Master's Knight Boots"
+        },
+        {
+            "uniquename": "T7_SHOES_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "plate_shoes",
+            "name": "Grandmaster's Knight Boots"
+        },
+        {
+            "uniquename": "T8_SHOES_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "plate_shoes",
+            "name": "Elder's Knight Boots"
+        },
+        {
+            "uniquename": "T4_SHOES_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "plate_shoes",
+            "name": "Adept's Guardian Boots"
+        },
+        {
+            "uniquename": "T5_SHOES_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "plate_shoes",
+            "name": "Expert's Guardian Boots"
+        },
+        {
+            "uniquename": "T6_SHOES_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "plate_shoes",
+            "name": "Master's Guardian Boots"
+        },
+        {
+            "uniquename": "T7_SHOES_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "plate_shoes",
+            "name": "Grandmaster's Guardian Boots"
+        },
+        {
+            "uniquename": "T8_SHOES_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_shoes",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "plate_shoes",
+            "name": "Elder's Guardian Boots"
+        },
+        {
+            "uniquename": "T4_MAIN_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "froststaff",
+            "name": "Adept's Frost Staff"
+        },
+        {
+            "uniquename": "T5_MAIN_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "froststaff",
+            "name": "Expert's Frost Staff"
+        },
+        {
+            "uniquename": "T6_MAIN_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "froststaff",
+            "name": "Master's Frost Staff"
+        },
+        {
+            "uniquename": "T7_MAIN_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "froststaff",
+            "name": "Grandmaster's Frost Staff"
+        },
+        {
+            "uniquename": "T8_MAIN_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "froststaff",
+            "name": "Elder's Frost Staff"
+        },
+        {
+            "uniquename": "T4_2H_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "froststaff",
+            "name": "Adept's Great Frost Staff"
+        },
+        {
+            "uniquename": "T5_2H_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "froststaff",
+            "name": "Expert's Great Frost Staff"
+        },
+        {
+            "uniquename": "T6_2H_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "froststaff",
+            "name": "Master's Great Frost Staff"
+        },
+        {
+            "uniquename": "T7_2H_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "froststaff",
+            "name": "Grandmaster's Great Frost Staff"
+        },
+        {
+            "uniquename": "T8_2H_FROSTSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "froststaff",
+            "name": "Elder's Great Frost Staff"
+        },
+        {
+            "uniquename": "T4_2H_GLACIALSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "froststaff",
+            "name": "Adept's Glacial Staff"
+        },
+        {
+            "uniquename": "T5_2H_GLACIALSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "froststaff",
+            "name": "Expert's Glacial Staff"
+        },
+        {
+            "uniquename": "T6_2H_GLACIALSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "froststaff",
+            "name": "Master's Glacial Staff"
+        },
+        {
+            "uniquename": "T7_2H_GLACIALSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "froststaff",
+            "name": "Grandmaster's Glacial Staff"
+        },
+        {
+            "uniquename": "T8_2H_GLACIALSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "froststaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "froststaff",
+            "name": "Elder's Glacial Staff"
+        },
+        {
+            "uniquename": "T4_MAIN_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "axe",
+            "name": "Adept's Battleaxe"
+        },
+        {
+            "uniquename": "T5_MAIN_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "axe",
+            "name": "Expert's Battleaxe"
+        },
+        {
+            "uniquename": "T6_MAIN_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "axe",
+            "name": "Master's Battleaxe"
+        },
+        {
+            "uniquename": "T7_MAIN_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "axe",
+            "name": "Grandmaster's Battleaxe"
+        },
+        {
+            "uniquename": "T8_MAIN_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "axe",
+            "name": "Elder's Battleaxe"
+        },
+        {
+            "uniquename": "T4_2H_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "axe",
+            "name": "Adept's Greataxe"
+        },
+        {
+            "uniquename": "T5_2H_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "axe",
+            "name": "Expert's Greataxe"
+        },
+        {
+            "uniquename": "T6_2H_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "axe",
+            "name": "Master's Greataxe"
+        },
+        {
+            "uniquename": "T7_2H_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "axe",
+            "name": "Grandmaster's Greataxe"
+        },
+        {
+            "uniquename": "T8_2H_AXE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "axe",
+            "name": "The Hand of Khor"
+        },
+        {
+            "uniquename": "T4_2H_HALBERD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "axe",
+            "name": "Adept's Halberd"
+        },
+        {
+            "uniquename": "T5_2H_HALBERD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "axe",
+            "name": "Expert's Halberd"
+        },
+        {
+            "uniquename": "T6_2H_HALBERD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "axe",
+            "name": "Master's Halberd"
+        },
+        {
+            "uniquename": "T7_2H_HALBERD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "axe",
+            "name": "Grandmaster's Halberd"
+        },
+        {
+            "uniquename": "T8_2H_HALBERD",
+            "shopcategory": "melee",
+            "shopsubcategory1": "axe",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "axe",
+            "name": "Elder's Halberd"
+        },
+        {
+            "uniquename": "T4_2H_QUARTERSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "quarterstaff",
+            "name": "Adept's Quarterstaff"
+        },
+        {
+            "uniquename": "T5_2H_QUARTERSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "quarterstaff",
+            "name": "Expert's Quarterstaff"
+        },
+        {
+            "uniquename": "T6_2H_QUARTERSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "quarterstaff",
+            "name": "Master's Quarterstaff"
+        },
+        {
+            "uniquename": "T7_2H_QUARTERSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "quarterstaff",
+            "name": "Grandmaster's Quarterstaff"
+        },
+        {
+            "uniquename": "T8_2H_QUARTERSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "quarterstaff",
+            "name": "Elder's Quarterstaff"
+        },
+        {
+            "uniquename": "T4_2H_IRONCLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "quarterstaff",
+            "name": "Adept's Iron-clad Staff"
+        },
+        {
+            "uniquename": "T5_2H_IRONCLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "quarterstaff",
+            "name": "Expert's Iron-clad Staff"
+        },
+        {
+            "uniquename": "T6_2H_IRONCLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "quarterstaff",
+            "name": "Master's Iron-clad Staff"
+        },
+        {
+            "uniquename": "T7_2H_IRONCLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "quarterstaff",
+            "name": "Grandmaster's Iron-clad Staff"
+        },
+        {
+            "uniquename": "T8_2H_IRONCLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "quarterstaff",
+            "name": "Elder's Iron-clad Staff"
+        },
+        {
+            "uniquename": "T4_2H_DOUBLEBLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "quarterstaff",
+            "name": "Adept's Double Bladed Staff"
+        },
+        {
+            "uniquename": "T5_2H_DOUBLEBLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "quarterstaff",
+            "name": "Expert's Double Bladed Staff"
+        },
+        {
+            "uniquename": "T6_2H_DOUBLEBLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "quarterstaff",
+            "name": "Master's Double Bladed Staff"
+        },
+        {
+            "uniquename": "T7_2H_DOUBLEBLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "quarterstaff",
+            "name": "Grandmaster's Double Bladed Staff"
+        },
+        {
+            "uniquename": "T8_2H_DOUBLEBLADEDSTAFF",
+            "shopcategory": "melee",
+            "shopsubcategory1": "quarterstaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "quarterstaff",
+            "name": "Elder's Double Bladed Staff"
+        }
+    ],
+    "Thetford": [
+        {
+            "uniquename": "T4_ARMOR_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "leather_armor",
+            "name": "Adept's Mercenary Jacket"
+        },
+        {
+            "uniquename": "T5_ARMOR_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "leather_armor",
+            "name": "Expert's Mercenary Jacket"
+        },
+        {
+            "uniquename": "T6_ARMOR_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "leather_armor",
+            "name": "Master's Mercenary Jacket"
+        },
+        {
+            "uniquename": "T7_ARMOR_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "leather_armor",
+            "name": "Grandmaster's Mercenary Jacket"
+        },
+        {
+            "uniquename": "T8_ARMOR_LEATHER_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "leather_armor",
+            "name": "Elder's Mercenary Jacket"
+        },
+        {
+            "uniquename": "T4_ARMOR_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "leather_armor",
+            "name": "Adept's Hunter Jacket"
+        },
+        {
+            "uniquename": "T5_ARMOR_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "leather_armor",
+            "name": "Expert's Hunter Jacket"
+        },
+        {
+            "uniquename": "T6_ARMOR_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "leather_armor",
+            "name": "Master's Hunter Jacket"
+        },
+        {
+            "uniquename": "T7_ARMOR_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "leather_armor",
+            "name": "Grandmaster's Hunter Jacket"
+        },
+        {
+            "uniquename": "T8_ARMOR_LEATHER_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "leather_armor",
+            "name": "Elder's Hunter Jacket"
+        },
+        {
+            "uniquename": "T4_ARMOR_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "leather_armor",
+            "name": "Adept's Assassin Jacket"
+        },
+        {
+            "uniquename": "T5_ARMOR_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "leather_armor",
+            "name": "Expert's Assassin Jacket"
+        },
+        {
+            "uniquename": "T6_ARMOR_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "leather_armor",
+            "name": "Master's Assassin Jacket"
+        },
+        {
+            "uniquename": "T7_ARMOR_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "leather_armor",
+            "name": "Grandmaster's Assassin Jacket"
+        },
+        {
+            "uniquename": "T8_ARMOR_LEATHER_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "leather_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "leather_armor",
+            "name": "Elder's Assassin Jacket"
+        },
+        {
+            "uniquename": "T4_HEAD_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "cloth_helmet",
+            "name": "Adept's Scholar Cowl"
+        },
+        {
+            "uniquename": "T5_HEAD_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "cloth_helmet",
+            "name": "Expert's Scholar Cowl"
+        },
+        {
+            "uniquename": "T6_HEAD_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "cloth_helmet",
+            "name": "Master's Scholar Cowl"
+        },
+        {
+            "uniquename": "T7_HEAD_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "cloth_helmet",
+            "name": "Grandmaster's Scholar Cowl"
+        },
+        {
+            "uniquename": "T8_HEAD_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "cloth_helmet",
+            "name": "Elder's Scholar Cowl"
+        },
+        {
+            "uniquename": "T4_HEAD_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "cloth_helmet",
+            "name": "Adept's Cleric Cowl"
+        },
+        {
+            "uniquename": "T5_HEAD_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "cloth_helmet",
+            "name": "Expert's Cleric Cowl"
+        },
+        {
+            "uniquename": "T6_HEAD_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "cloth_helmet",
+            "name": "Master's Cleric Cowl"
+        },
+        {
+            "uniquename": "T7_HEAD_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "cloth_helmet",
+            "name": "Grandmaster's Cleric Cowl"
+        },
+        {
+            "uniquename": "T8_HEAD_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "cloth_helmet",
+            "name": "Elder's Cleric Cowl"
+        },
+        {
+            "uniquename": "T4_HEAD_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "cloth_helmet",
+            "name": "Adept's Mage Cowl"
+        },
+        {
+            "uniquename": "T5_HEAD_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "cloth_helmet",
+            "name": "Expert's Mage Cowl"
+        },
+        {
+            "uniquename": "T6_HEAD_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "cloth_helmet",
+            "name": "Master's Mage Cowl"
+        },
+        {
+            "uniquename": "T7_HEAD_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "cloth_helmet",
+            "name": "Grandmaster's Mage Cowl"
+        },
+        {
+            "uniquename": "T8_HEAD_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "cloth_helmet",
+            "name": "Elder's Mage Cowl"
+        },
+        {
+            "uniquename": "T4_MAIN_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "firestaff",
+            "name": "Adept's Fire Staff"
+        },
+        {
+            "uniquename": "T5_MAIN_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "firestaff",
+            "name": "Expert's Fire Staff"
+        },
+        {
+            "uniquename": "T6_MAIN_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "firestaff",
+            "name": "Master's Fire Staff"
+        },
+        {
+            "uniquename": "T7_MAIN_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "firestaff",
+            "name": "Grandmaster's Fire Staff"
+        },
+        {
+            "uniquename": "T8_MAIN_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "firestaff",
+            "name": "Elder's Fire Staff"
+        },
+        {
+            "uniquename": "T4_2H_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "firestaff",
+            "name": "Adept's Great Fire Staff"
+        },
+        {
+            "uniquename": "T5_2H_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "firestaff",
+            "name": "Expert's Great Fire Staff"
+        },
+        {
+            "uniquename": "T6_2H_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "firestaff",
+            "name": "Master's Great Fire Staff"
+        },
+        {
+            "uniquename": "T7_2H_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "firestaff",
+            "name": "Grandmaster's Great Fire Staff"
+        },
+        {
+            "uniquename": "T8_2H_FIRESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "firestaff",
+            "name": "Vendetta's Wrath"
+        },
+        {
+            "uniquename": "T4_2H_INFERNOSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "firestaff",
+            "name": "Adept's Infernal Staff"
+        },
+        {
+            "uniquename": "T5_2H_INFERNOSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "firestaff",
+            "name": "Expert's Infernal Staff"
+        },
+        {
+            "uniquename": "T6_2H_INFERNOSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "firestaff",
+            "name": "Master's Infernal Staff"
+        },
+        {
+            "uniquename": "T7_2H_INFERNOSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "firestaff",
+            "name": "Grandmaster's Infernal Staff"
+        },
+        {
+            "uniquename": "T8_2H_INFERNOSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "firestaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "firestaff",
+            "name": "Elder's Infernal Staff"
+        },
+        {
+            "uniquename": "T4_MAIN_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "naturestaff",
+            "name": "Adept's Nature Staff"
+        },
+        {
+            "uniquename": "T5_MAIN_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "naturestaff",
+            "name": "Expert's Nature Staff"
+        },
+        {
+            "uniquename": "T6_MAIN_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "naturestaff",
+            "name": "Master's Nature Staff"
+        },
+        {
+            "uniquename": "T7_MAIN_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "naturestaff",
+            "name": "Grandmaster's Nature Staff"
+        },
+        {
+            "uniquename": "T8_MAIN_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "naturestaff",
+            "name": "Elder's Nature Staff"
+        },
+        {
+            "uniquename": "T4_2H_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "naturestaff",
+            "name": "Adept's Great Nature Staff"
+        },
+        {
+            "uniquename": "T5_2H_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "naturestaff",
+            "name": "Expert's Great Nature Staff"
+        },
+        {
+            "uniquename": "T6_2H_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "naturestaff",
+            "name": "Master's Great Nature Staff"
+        },
+        {
+            "uniquename": "T7_2H_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "naturestaff",
+            "name": "Grandmaster's Great Nature Staff"
+        },
+        {
+            "uniquename": "T8_2H_NATURESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "naturestaff",
+            "name": "Elder's Great Nature Staff"
+        },
+        {
+            "uniquename": "T4_2H_WILDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "naturestaff",
+            "name": "Adept's Wild Staff"
+        },
+        {
+            "uniquename": "T5_2H_WILDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "naturestaff",
+            "name": "Expert's Wild Staff"
+        },
+        {
+            "uniquename": "T6_2H_WILDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "naturestaff",
+            "name": "Master's Wild Staff"
+        },
+        {
+            "uniquename": "T7_2H_WILDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "naturestaff",
+            "name": "Grandmaster's Wild Staff"
+        },
+        {
+            "uniquename": "T8_2H_WILDSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "naturestaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "naturestaff",
+            "name": "Elder's Wild Staff"
+        },
+        {
+            "uniquename": "T4_MAIN_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "mace",
+            "name": "Adept's Mace"
+        },
+        {
+            "uniquename": "T5_MAIN_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "mace",
+            "name": "Expert's Mace"
+        },
+        {
+            "uniquename": "T6_MAIN_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "mace",
+            "name": "Master's Mace"
+        },
+        {
+            "uniquename": "T7_MAIN_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "mace",
+            "name": "Grandmaster's Mace"
+        },
+        {
+            "uniquename": "T8_MAIN_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "mace",
+            "name": "Elder's Mace"
+        },
+        {
+            "uniquename": "T4_2H_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "mace",
+            "name": "Adept's Heavy Mace"
+        },
+        {
+            "uniquename": "T5_2H_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "mace",
+            "name": "Expert's Heavy Mace"
+        },
+        {
+            "uniquename": "T6_2H_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "mace",
+            "name": "Master's Heavy Mace"
+        },
+        {
+            "uniquename": "T7_2H_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "mace",
+            "name": "Grandmaster's Heavy Mace"
+        },
+        {
+            "uniquename": "T8_2H_MACE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "mace",
+            "name": "Elder's Heavy Mace"
+        },
+        {
+            "uniquename": "T4_2H_FLAIL",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "mace",
+            "name": "Adept's Morning Star"
+        },
+        {
+            "uniquename": "T5_2H_FLAIL",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "mace",
+            "name": "Expert's Morning Star"
+        },
+        {
+            "uniquename": "T6_2H_FLAIL",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "mace",
+            "name": "Master's Morning Star"
+        },
+        {
+            "uniquename": "T7_2H_FLAIL",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "mace",
+            "name": "Grandmaster's Morning Star"
+        },
+        {
+            "uniquename": "T8_2H_FLAIL",
+            "shopcategory": "melee",
+            "shopsubcategory1": "mace",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "mace",
+            "name": "Elder's Morning Star"
+        }
+    ],
+    "Fort Sterling": [
+        {
+            "uniquename": "T4_HEAD_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "plate_helmet",
+            "name": "Adept's Soldier Helmet"
+        },
+        {
+            "uniquename": "T5_HEAD_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "plate_helmet",
+            "name": "Expert's Soldier Helmet"
+        },
+        {
+            "uniquename": "T6_HEAD_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "plate_helmet",
+            "name": "Master's Soldier Helmet"
+        },
+        {
+            "uniquename": "T7_HEAD_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "plate_helmet",
+            "name": "Grandmaster's Soldier Helmet"
+        },
+        {
+            "uniquename": "T8_HEAD_PLATE_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "plate_helmet",
+            "name": "Elder's Soldier Helmet"
+        },
+        {
+            "uniquename": "T4_HEAD_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "plate_helmet",
+            "name": "Adept's Knight Helmet"
+        },
+        {
+            "uniquename": "T5_HEAD_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "plate_helmet",
+            "name": "Expert's Knight Helmet"
+        },
+        {
+            "uniquename": "T6_HEAD_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "plate_helmet",
+            "name": "Master's Knight Helmet"
+        },
+        {
+            "uniquename": "T7_HEAD_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "plate_helmet",
+            "name": "Grandmaster's Knight Helmet"
+        },
+        {
+            "uniquename": "T8_HEAD_PLATE_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "plate_helmet",
+            "name": "Elder's Knight Helmet"
+        },
+        {
+            "uniquename": "T4_HEAD_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "4",
+            "weight": "1.7",
+            "craftingcategory": "plate_helmet",
+            "name": "Adept's Guardian Helmet"
+        },
+        {
+            "uniquename": "T5_HEAD_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "5",
+            "weight": "2.5",
+            "craftingcategory": "plate_helmet",
+            "name": "Expert's Guardian Helmet"
+        },
+        {
+            "uniquename": "T6_HEAD_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "6",
+            "weight": "3.8",
+            "craftingcategory": "plate_helmet",
+            "name": "Master's Guardian Helmet"
+        },
+        {
+            "uniquename": "T7_HEAD_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "7",
+            "weight": "5.7",
+            "craftingcategory": "plate_helmet",
+            "name": "Grandmaster's Guardian Helmet"
+        },
+        {
+            "uniquename": "T8_HEAD_PLATE_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "plate_helmet",
+            "tier": "8",
+            "weight": "8.5",
+            "craftingcategory": "plate_helmet",
+            "name": "Elder's Guardian Helmet"
+        },
+        {
+            "uniquename": "T4_ARMOR_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "cloth_armor",
+            "name": "Adept's Scholar Robe"
+        },
+        {
+            "uniquename": "T5_ARMOR_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "cloth_armor",
+            "name": "Expert's Scholar Robe"
+        },
+        {
+            "uniquename": "T6_ARMOR_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "cloth_armor",
+            "name": "Master's Scholar Robe"
+        },
+        {
+            "uniquename": "T7_ARMOR_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "cloth_armor",
+            "name": "Grandmaster's Scholar Robe"
+        },
+        {
+            "uniquename": "T8_ARMOR_CLOTH_SET1",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "cloth_armor",
+            "name": "Elder's Scholar Robe"
+        },
+        {
+            "uniquename": "T4_ARMOR_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "cloth_armor",
+            "name": "Adept's Cleric Robe"
+        },
+        {
+            "uniquename": "T5_ARMOR_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "cloth_armor",
+            "name": "Expert's Cleric Robe"
+        },
+        {
+            "uniquename": "T6_ARMOR_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "cloth_armor",
+            "name": "Master's Cleric Robe"
+        },
+        {
+            "uniquename": "T7_ARMOR_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "cloth_armor",
+            "name": "Grandmaster's Cleric Robe"
+        },
+        {
+            "uniquename": "T8_ARMOR_CLOTH_SET2",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "cloth_armor",
+            "name": "Elder's Cleric Robe"
+        },
+        {
+            "uniquename": "T4_ARMOR_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "4",
+            "weight": "3.4",
+            "craftingcategory": "cloth_armor",
+            "name": "Adept's Mage Robe"
+        },
+        {
+            "uniquename": "T5_ARMOR_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "5",
+            "weight": "5.1",
+            "craftingcategory": "cloth_armor",
+            "name": "Expert's Mage Robe"
+        },
+        {
+            "uniquename": "T6_ARMOR_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "6",
+            "weight": "7.6",
+            "craftingcategory": "cloth_armor",
+            "name": "Master's Mage Robe"
+        },
+        {
+            "uniquename": "T7_ARMOR_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "7",
+            "weight": "11.4",
+            "craftingcategory": "cloth_armor",
+            "name": "Grandmaster's Mage Robe"
+        },
+        {
+            "uniquename": "T8_ARMOR_CLOTH_SET3",
+            "shopcategory": "armor",
+            "shopsubcategory1": "cloth_armor",
+            "tier": "8",
+            "weight": "17.1",
+            "craftingcategory": "cloth_armor",
+            "name": "Elder's Mage Robe"
+        },
+        {
+            "uniquename": "T4_MAIN_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "holystaff",
+            "name": "Adept's Holy Staff"
+        },
+        {
+            "uniquename": "T5_MAIN_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "holystaff",
+            "name": "Expert's Holy Staff"
+        },
+        {
+            "uniquename": "T6_MAIN_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "holystaff",
+            "name": "Master's Holy Staff"
+        },
+        {
+            "uniquename": "T7_MAIN_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "holystaff",
+            "name": "Grandmaster's Holy Staff"
+        },
+        {
+            "uniquename": "T8_MAIN_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "holystaff",
+            "name": "Elder's Holy Staff"
+        },
+        {
+            "uniquename": "T4_2H_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "holystaff",
+            "name": "Adept's Great Holy Staff"
+        },
+        {
+            "uniquename": "T5_2H_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "holystaff",
+            "name": "Expert's Great Holy Staff"
+        },
+        {
+            "uniquename": "T6_2H_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "holystaff",
+            "name": "Master's Great Holy Staff"
+        },
+        {
+            "uniquename": "T7_2H_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "holystaff",
+            "name": "Grandmaster's Great Holy Staff"
+        },
+        {
+            "uniquename": "T8_2H_HOLYSTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "holystaff",
+            "name": "Elder's Great Holy Staff"
+        },
+        {
+            "uniquename": "T4_2H_DIVINESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "holystaff",
+            "name": "Adept's Divine Staff"
+        },
+        {
+            "uniquename": "T5_2H_DIVINESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "holystaff",
+            "name": "Expert's Divine Staff"
+        },
+        {
+            "uniquename": "T6_2H_DIVINESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "holystaff",
+            "name": "Master's Divine Staff"
+        },
+        {
+            "uniquename": "T7_2H_DIVINESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "holystaff",
+            "name": "Grandmaster's Divine Staff"
+        },
+        {
+            "uniquename": "T8_2H_DIVINESTAFF",
+            "shopcategory": "magic",
+            "shopsubcategory1": "holystaff",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "holystaff",
+            "name": "Elder's Divine Staff"
+        },
+        {
+            "uniquename": "T4_MAIN_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "spear",
+            "name": "Adept's Spear"
+        },
+        {
+            "uniquename": "T5_MAIN_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "spear",
+            "name": "Expert's Spear"
+        },
+        {
+            "uniquename": "T6_MAIN_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "spear",
+            "name": "Master's Spear"
+        },
+        {
+            "uniquename": "T7_MAIN_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "spear",
+            "name": "Grandmaster's Spear"
+        },
+        {
+            "uniquename": "T8_MAIN_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "spear",
+            "name": "Elder's Spear"
+        },
+        {
+            "uniquename": "T4_2H_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "spear",
+            "name": "Adept's Pike"
+        },
+        {
+            "uniquename": "T5_2H_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "spear",
+            "name": "Expert's Pike"
+        },
+        {
+            "uniquename": "T6_2H_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "spear",
+            "name": "Master's Pike"
+        },
+        {
+            "uniquename": "T7_2H_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "spear",
+            "name": "Grandmaster's Pike"
+        },
+        {
+            "uniquename": "T8_2H_SPEAR",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "spear",
+            "name": "Elder's Pike"
+        },
+        {
+            "uniquename": "T4_2H_GLAIVE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "spear",
+            "name": "Adept's Glaive"
+        },
+        {
+            "uniquename": "T5_2H_GLAIVE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "spear",
+            "name": "Expert's Glaive"
+        },
+        {
+            "uniquename": "T6_2H_GLAIVE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "spear",
+            "name": "Master's Glaive"
+        },
+        {
+            "uniquename": "T7_2H_GLAIVE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "spear",
+            "name": "Grandmaster's Glaive"
+        },
+        {
+            "uniquename": "T8_2H_GLAIVE",
+            "shopcategory": "melee",
+            "shopsubcategory1": "spear",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "spear",
+            "name": "Elder's Glaive"
+        },
+        {
+            "uniquename": "T4_MAIN_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "4",
+            "weight": "5.1",
+            "craftingcategory": "hammer",
+            "name": "Adept's Hammer"
+        },
+        {
+            "uniquename": "T5_MAIN_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "5",
+            "weight": "7.6",
+            "craftingcategory": "hammer",
+            "name": "Expert's Hammer"
+        },
+        {
+            "uniquename": "T6_MAIN_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "6",
+            "weight": "11.4",
+            "craftingcategory": "hammer",
+            "name": "Master's Hammer"
+        },
+        {
+            "uniquename": "T7_MAIN_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "7",
+            "weight": "17.1",
+            "craftingcategory": "hammer",
+            "name": "Grandmaster's Hammer"
+        },
+        {
+            "uniquename": "T8_MAIN_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "8",
+            "weight": "25.6",
+            "craftingcategory": "hammer",
+            "name": "Elder's Hammer"
+        },
+        {
+            "uniquename": "T4_2H_POLEHAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "hammer",
+            "name": "Adept's Polehammer"
+        },
+        {
+            "uniquename": "T5_2H_POLEHAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "hammer",
+            "name": "Expert's Polehammer"
+        },
+        {
+            "uniquename": "T6_2H_POLEHAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "hammer",
+            "name": "Master's Polehammer"
+        },
+        {
+            "uniquename": "T7_2H_POLEHAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "hammer",
+            "name": "Grandmaster's Polehammer"
+        },
+        {
+            "uniquename": "T8_2H_POLEHAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "hammer",
+            "name": "Elder's Polehammer"
+        },
+        {
+            "uniquename": "T4_2H_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "4",
+            "weight": "6.8",
+            "craftingcategory": "hammer",
+            "name": "Adept's Great Hammer"
+        },
+        {
+            "uniquename": "T5_2H_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "5",
+            "weight": "10.1",
+            "craftingcategory": "hammer",
+            "name": "Expert's Great Hammer"
+        },
+        {
+            "uniquename": "T6_2H_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "6",
+            "weight": "15.2",
+            "craftingcategory": "hammer",
+            "name": "Master's Great Hammer"
+        },
+        {
+            "uniquename": "T7_2H_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "7",
+            "weight": "22.8",
+            "craftingcategory": "hammer",
+            "name": "Grandmaster's Great Hammer"
+        },
+        {
+            "uniquename": "T8_2H_HAMMER",
+            "shopcategory": "melee",
+            "shopsubcategory1": "hammer",
+            "tier": "8",
+            "weight": "34.2",
+            "craftingcategory": "hammer",
+            "name": "Elder's Great Hammer"
+        }
+    ]
+}
