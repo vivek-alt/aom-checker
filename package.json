@@ -1,6 +1,6 @@
 {
-  "name": "myapp",
-  "version": "0.1.0",
+  "name": "aom-checker",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^7.1.0",
